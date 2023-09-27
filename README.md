@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--I'm Joseph! I'm still learning GitHub so bear with me as I improve my skills!
+-I'm Joseph! I'm still learning GitHub so bear with me as I improve my skills! <br/>
 -Ideally if you're reading this you already have my contact info, but you can reach me at joembravo@hotmail.com !
